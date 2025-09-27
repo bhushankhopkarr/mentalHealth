@@ -1,0 +1,9 @@
+pandas
+faker
+nltk
+scikit-learn
+seaborn
+nltk
+matplotlib
+streamlit
+watchdog
